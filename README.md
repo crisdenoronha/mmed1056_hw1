@@ -4,7 +4,7 @@ SETTING UP FOLDERS AND FILES
 <p>Folder contents:<br>
 - index.html<br>
 - images folder<br>
-- css folder<br>
-- js folder<br>
+- css folder(main.css, reset.css)<br>
+- js folder(mai.js)<br>
 - assets folder <br>
 - includes folder</p>
